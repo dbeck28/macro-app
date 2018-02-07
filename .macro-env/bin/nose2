@@ -1,0 +1,6 @@
+#!/Users/DBHome/Documents/flask_macro_project/.macro-env/bin/python3.6
+# EASY-INSTALL-DEV-SCRIPT: 'nose2==0.7.3','nose2'
+__requires__ = 'nose2==0.7.3'
+__import__('pkg_resources').require('nose2==0.7.3')
+__file__ = '/Users/DBHome/Documents/flask_macro_project/.macro-env/src/nose2/bin/nose2'
+exec(compile(open(__file__).read(), __file__, 'exec'))
